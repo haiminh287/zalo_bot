@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "e58a3c15dc5935076c48",
+    "display_name": "Loan Trần",
+    "is_bot": false,
+    "created_at": "2025-11-03T10:15:30.123456"
+  },
+  {
+    "user_id": "dfa8467b6d32846cdd23",
+    "display_name": "Nguyễn Duy Tâm",
+    "is_bot": false,
+    "created_at": "2025-11-09T21:35:00.020905"
+  },
+  {
+    "user_id": "ca31a793e1c4089a51d5",
+    "display_name": "Hana",
+    "is_bot": false,
+    "created_at": "2025-11-05T09:20:15.987654"
+  }
+]

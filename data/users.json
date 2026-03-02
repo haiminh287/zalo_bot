@@ -1,0 +1,27 @@
+[
+  {
+    "user_id": "d8195d986dcf8491ddde",
+    "display_name": "Lê Quang Minh",
+    "is_bot": false,
+    "created_at": "2025-11-02T22:58:56.425409"
+  },
+
+  {
+    "user_id": "fff1d6ab58e4b1bae8f5",
+    "display_name": "Nguyễn Hải Minh",
+    "is_bot": false,
+    "created_at": "2025-11-03T12:45:54.745607"
+  },
+  {
+    "user_id": "4bb10f95b4c15d9f04d0",
+    "display_name": "Nguyễn Hữu Tuấn",
+    "is_bot": false,
+    "created_at": "2025-11-03T13:00:00.000000"
+  },
+  {
+    "user_id": "d0e30f143a5ed3008a4f",
+    "display_name": "Nguyễn Hải Đăng",
+    "is_bot": false,
+    "created_at": "2026-02-03T19:30:50.720369"
+  }
+]
